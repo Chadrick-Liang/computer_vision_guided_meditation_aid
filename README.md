@@ -3,6 +3,20 @@
 A buoyant flower lamp meant as a decorative element at quiet water bodies. It blends embodied meditation cues (breathing) with ambient lighting in a decorative water-borne lamp, encouraging mindful stillness through visually intuitive feedback.<br>
 Essentially aid users in using their breath as a meditation anchor, giving visual form to their breathing patterns.
 
+---
+
+## Collaborators
+
+- Zhou Ying Qi
+  
+- Maheshi Parwani
+  
+- Ch’ng Zhi Qiang
+  
+- Hadi Priyatna Arief
+
+---
+
 ## Brief overview video
 <img src="/README_images/flower.png" alt="flower lamp" width="400"/> <br>
 https://youtu.be/GyVzt1gu94g
