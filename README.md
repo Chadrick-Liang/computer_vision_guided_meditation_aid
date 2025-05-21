@@ -4,7 +4,7 @@ A buoyant flower lamp meant as a decorative element at quiet water bodies. It bl
 Essentially aid users in using their breath as a meditation anchor, giving visual form to their breathing patterns.
 
 ## Brief overview video
-<img src="flower.png" alt="flower lamp" width="24==400"/> <br>
+<img src="/README_images/flower.png" alt="flower lamp" width="24==400"/> <br>
 https://youtu.be/GyVzt1gu94g
 
 ## Explanation
