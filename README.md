@@ -1,6 +1,7 @@
 # Computer vision-guided meditation aid
 
-A buoyant flower lamp meant as a decorative element at quiet water bodies.
+A buoyant flower lamp meant as a decorative element at quiet water bodies. It blends embodied meditation cues (breathing) with ambient lighting in a decorative water-borne lamp, encouraging mindful stillness through visually intuitive feedback.<br>
+Essentially aid users in using their breath as a meditation anchor, giving visual form to their breathing patterns.
 
 ## Brief overview video
 https://youtu.be/GyVzt1gu94g
