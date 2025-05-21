@@ -1,6 +1,6 @@
 # Computer vision-guided meditation aid
 
-A buoyant flower lamp meant as a decorative element at quiet water bodies.\
+A buoyant flower lamp meant as a decorative element at quiet water bodies./
 
 ## Brief overview video
 https://youtu.be/GyVzt1gu94g
